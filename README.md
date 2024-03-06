@@ -5,10 +5,7 @@
 - 🎨 I'm passionate about 3D modeling, CAD design, and art in my free time.
 - 🌐 I’m currently learning Rust, JavaScript, TypeScript, and React with the goal of becoming a full-stack developer.
 
-
 - ❗ for now I'm a solo programmer but would love to meet new people to collaborate with.
-
-my btc address: bc1qr0cwvxmz383yljlsvccpknjc0n6za8gy97zva9
 
 - 🤔 I’m looking for help with advanced full-stack development techniques.
 - 💬 Ask me about anything from 3D modeling to weapon design!
@@ -30,3 +27,6 @@ my btc address: bc1qr0cwvxmz383yljlsvccpknjc0n6za8gy97zva9
 ## misc
 ![Static Badge](https://img.shields.io/badge/join-%23ff8cbe?style=flat&logo=discord&logoColor=%23ff8cbe&label=my%20silly%20femboy%20server&link=https%3A%2F%2Fdiscord.gg%2FPMmnzxqrK9)
 
+| :moneybag: My Bitcoin Address |
+|---------------------------|
+| bc1qr0cwvxmz383yljlsvccpknjc0n6za8gy97zva9 |
