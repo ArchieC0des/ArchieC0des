@@ -7,6 +7,7 @@
 
 
 - ❗ for now I'm a solo programmer but would love to meet new people to collaborate with.
+
 my btc address: bc1qr0cwvxmz383yljlsvccpknjc0n6za8gy97zva9
 
 - 🤔 I’m looking for help with advanced full-stack development techniques.
