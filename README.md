@@ -25,8 +25,6 @@
 ![Static Badge](https://img.shields.io/badge/Fusion-%23323330?style=flat&logo=Autodesk)
 ![Static Badge](https://img.shields.io/badge/unreal%20engine%205-%23323330?style=flat&logo=unreal%20engine)
 ## misc
-![Static Badge](https://img.shields.io/badge/join-%23ff8cbe?style=flat&logo=discord&logoColor=%23ff8cbe&label=my%20silly%20femboy%20server&link=https%3A%2F%2Fdiscord.gg%2FPMmnzxqrK9)
-
 | :moneybag: My Bitcoin Address |
 |---------------------------|
 | bc1qr0cwvxmz383yljlsvccpknjc0n6za8gy97zva9 |
